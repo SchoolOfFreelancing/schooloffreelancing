@@ -1,0 +1,15 @@
+{
+  "issuer": "https://www.schooloffreelancing.com/",
+  "agent_auth": {
+    "skill": "https://www.schooloffreelancing.com/auth.md",
+    "register_uri": "https://www.schooloffreelancing.com/auth/register",
+    "identity_types_supported": [
+      "anonymous"
+    ],
+    "anonymous": {
+      "credential_types_supported": [
+        "access_token"
+      ]
+    }
+  }
+}
