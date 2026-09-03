@@ -1,0 +1,12 @@
+{
+  "resource": "https://www.schooloffreelancing.com/",
+  "authorization_servers": [
+    "https://www.schooloffreelancing.com/"
+  ],
+  "scopes_supported": [
+    "public"
+  ],
+  "bearer_methods_supported": [
+    "header"
+  ]
+}
