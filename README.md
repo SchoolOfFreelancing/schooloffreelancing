@@ -67,6 +67,33 @@ Fast, fixed-scope remote engineering support for businesses running Linux server
 
 → [View all client support services](https://schooloffreelancing.com/client-support)
 
+---
+
 ## Why School of Freelancing
-* 5.0/5 rated on Google Reviews
-* Training and support delivered 100% online, worldwide — no local office needed
+
+- ⭐ **5.0/5** rated on Google Reviews
+- 🌍 Training and support delivered **100% online**, worldwide — no local office needed
+- 💵 All pricing quoted and billed in **USD**
+- ⚡ **24/7 response** on Telegram and WhatsApp, ~1 hour average reply time
+- 🎓 Founded **2015**, based and operated in Bangladesh
+
+## Links
+
+- 📄 [FAQs](https://schooloffreelancing.com/resource-center/faqs/)
+- 🗺️ [Locations](https://schooloffreelancing.com/locations/)
+- 💬 [Testimonials](https://schooloffreelancing.com/resource-center/testimonials/)
+- ℹ️ [About Us](https://schooloffreelancing.com/about-us/)
+- ✉️ [Contact Us](https://schooloffreelancing.com/contact-us/)
+- ↩️ [Refund Policy](https://schooloffreelancing.com/legal/refund-policy/)
+- 🔒 [Privacy Policy](https://schooloffreelancing.com/legal/privacy-policy/)
+- 📜 [Terms & Conditions](https://schooloffreelancing.com/legal/terms-and-conditions/)
+- ✅ [Credential Verification](https://schooloffreelancing.com/legal/credential-verification/)
+
+## Community
+
+[GitHub](https://github.com/SchoolOfFreelancing) · [YouTube](https://www.youtube.com/@SchoolOfFreelancing) · [LinkedIn](https://www.linkedin.com/company/schooloffreelancing) · [Facebook](https://www.facebook.com/SchoolOfFreelancing) · [Instagram](https://instagram.com/schooloffreelancing) · [Threads](https://www.threads.com/schooloffreelancing) · [X](https://x.com/SchoolOfFreelan) · [Telegram](https://t.me/SchoolOfFreelancingTraining) · [WhatsApp](https://wa.me/8801748973769)
+
+---
+
+© School of Freelancing. All rights reserved. Built with ❤️ from Bangladesh.
+Fri Jul 31 01:56:45 PM +06 2026
